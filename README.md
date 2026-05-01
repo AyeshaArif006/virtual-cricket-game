@@ -1,7 +1,7 @@
 # virtual-cricket-game
-A terminal-based cricket simulation game in C++ with toss, batting, and match result logic.
+A terminal-based cricket simulation game in C++ with toss, batting and match result logic.
 # About
-Virtual Cricket Game is a fun, interactive command-line cricket simulator. Two teams face off in a randomized match with toss, batting innings, wide balls, wickets, and a final result — all in your terminal.
+Virtual Cricket Game is a fun, interactive command-line cricket simulator. Two teams face off in a randomized match with toss, batting innings, wide balls, wickets and a final result  all in your terminal.
 # Features
 
 - Custom team names with duplicate validation
